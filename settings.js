@@ -4,14 +4,14 @@ const chalk = require('chalk')
 const { en, es, ar, id, pt, rs} = require('./libs/idiomas/total-idiomas.js') 
 
 //---------[ PROPIETARIO/OWNER ]---------
-global.owner = [["50582340051", "Owner", true], ["51929838430"]]
+global.owner = [["525629645643", "Owner", true], ["51929838430"]]
 global.mods = []
 global.premium = []  
 global.blockList = []  
 
 //---------[ NOMBRE/INFO ]---------
-global.botname = "𝐘𝐮𝐆𝐢-𝐁𝐎𝐓[𝐌𝐃]"
-global.wm = '𝐘𝐮𝐆𝐢-𝐁𝐎𝐓 🌍'
+global.botname = "🌷𝙉𝘼𝙉𝙄 𝘽𝙊𝙏🌷"
+global.wm = '🌷𝙉𝘼𝙉𝙄 𝘽𝙊𝙏🌷'
 global.vs = '1.1.0'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
